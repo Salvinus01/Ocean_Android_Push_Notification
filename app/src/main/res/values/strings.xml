@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ocean_Android_Push_Notification</string>
+    <string name="msg_subscribed">Inscrito no Canal</string>
+    <string name="msg_subscribe_failed">Problema na Inscrição do Canal</string>
+</resources>
